@@ -241,8 +241,6 @@ https://www.ometis.co.uk/careers-qlik/
 ///Zip file on central by 7 Zip///
 C:\Program Files\7-Zip>7z.exe a -tzip -mx7 D:/Rohit/pgw-qlknprnt12.zip  D:/Rohit/pgw-qlknprnt12
 
-https://www.youtube.com/watch?v=6MJHYQ4dmAI
-
 
 
 
